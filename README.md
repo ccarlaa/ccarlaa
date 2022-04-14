@@ -3,8 +3,6 @@
 - 📚 Estudante de Engenharia de Software 
 - 💡 Estudando Desenvolvimento Web
 - 😊 Pronomes: ela/dela 
-- 💚 Fun fact: Escutando Post Malone no repeat 
-
 
 <div>
   <a href="https://github.com/ccarlaa">
