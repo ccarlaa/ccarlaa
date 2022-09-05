@@ -10,18 +10,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccarlaa&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 8px;" />
-  <img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right: 8px;" />
-  <img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right: 8px;" />
-  <img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 8px;" />
-  <img align="left" alt="NodeJs" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="left" alt="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right: 8px;" />
-  <img align="left" alt="PostGreeSQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</div>
-  <img align="left" alt="Prisma" width="36px" height="36px" src="https://i.ibb.co/hXHhRYJ/aaaaaaa.png" />
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,react,nodejs,mongodb,postgresql,prisma,java&theme=light)](https://skills.thijs.gg)
 
-  
   ##
   
   <div> 
