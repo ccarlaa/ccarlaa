@@ -10,7 +10,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccarlaa&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,react,nodejs,mongodb,postgresql,prisma,java&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,react,nodejs,mongodb,postgresql,prisma,docker,java&theme=light)](https://skills.thijs.gg)
 
   ##
   
