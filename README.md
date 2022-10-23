@@ -14,8 +14,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccarlaa&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
-##
-
 <br>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,java,styledcomponents,react,nodejs,mongodb,postgresql,prisma,docker&theme=light)](https://skills.thijs.gg)
