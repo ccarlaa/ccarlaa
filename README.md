@@ -16,7 +16,7 @@
 
 <br>
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,java,javascript,typescript,html,css,styledcomponents,react,nodejs,mongodb,postgresql,prisma,docker&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,java,javascript,typescript,html,css,styledcomponents,react,nodejs,mongodb,postgresql,prisma,mui&theme=light)](https://skills.thijs.gg)
 
 ##
 
