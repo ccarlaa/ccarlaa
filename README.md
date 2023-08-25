@@ -27,7 +27,7 @@
 ##
   
     
- ![Snake animation](https://github.com/ccarlaa/ccarlaa/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/ccarlaa/ccarlaa/blob/output/github-contribution-grid-snake.svg) -->
     
   </div>
 
