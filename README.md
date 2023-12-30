@@ -1,4 +1,4 @@
-### Olá! Eu sou a Carla 👋
+### Hello! My name is Carla 👋
 
 - 📚 Software engineering student 
 - 💡 Studying web development
