@@ -1,9 +1,8 @@
 ### Olá! Eu sou a Carla 👋
 
-- 📚 Estudante de Engenharia de Software na Universidade de Brasília
-- 💡 Estudando Desenvolvimento Web
-- 😊 Pronomes: ela/dela 
-
+- 📚 Software engineering student 
+- 💡 Studying web development
+  
 ##
 
 <br>
