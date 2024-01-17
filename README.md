@@ -1,7 +1,7 @@
 ### Hello! My name is Carla 👋
 
 - 📚 Software engineering student 
-- 💡 Studying front-end
+- 💡 Studying front-end development
   
 ##
 
