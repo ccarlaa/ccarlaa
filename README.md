@@ -15,7 +15,7 @@
 
 <br>
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,java,javascript,typescript,html,css,mui,styledcomponents,react,nodejs,mongodb,postgresql,prisma,tailwind&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=c,java,javascript,typescript,html,css,mui,styledcomponents,react,nodejs,mongodb,postgresql,prisma,tailwind&theme=light)](https://skillicons.dev)
 
 ##
 
