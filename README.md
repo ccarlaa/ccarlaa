@@ -5,16 +5,8 @@
   
 ##
 
-<br>
-
-<div>
-  <a href="https://github.com/ccarlaa">
-  <img height="160em" src="https://bellomia-readme-stats.vercel.app/api?username=ccarlaa&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=ccarlaa&layout=compact&langs_count=7&theme=jolly"/>
-</div>
-
-<br>
-
+![ccarlaa's Stats](https://github-readme-stats.vercel.app/api?username=ccarlaa&theme=jolly&show_icons=true&hide_border=false&count_private=true)
+![ccarlaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ccarlaa&theme=jolly&show_icons=true&hide_border=false&layout=compact)
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,mui,styledcomponents,tailwind,bootstrap,scss,react,nodejs,c,java,mongodb,postgresql,prisma,figma&theme=light)](https://skillicons.dev)
 
 ##
