@@ -1,7 +1,6 @@
 ### Hello! My name is Carla 👋
 
 - 📚 Software engineering student 
-- 💡 Studying web development
   
 ##
 
