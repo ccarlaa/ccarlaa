@@ -5,7 +5,7 @@
 ##
 
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,mui,styledcomponents,tailwind,bootstrap,scss,react,nodejs,c,java,mongodb,postgresql,prisma,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,mui,styledcomponents,tailwind,bootstrap,scss,react,nodejs,c,java,ruby,mongodb,postgresql,prisma,figma&theme=light)](https://skillicons.dev)
 
 ##
 
