@@ -1,6 +1,6 @@
 ### Hello! My name is Carla 👋
 
-I'm **Carla**, a Software Engineering student currently pursuing a double degree in Physical Engineering and Embedded Systems at **ENSICAEN** in France.
+I'm **Carla**, a Software Engineering student currently pursuing a double degree in Physical Engineering and Embedded Systems.
 
 ##
 
