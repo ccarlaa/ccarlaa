@@ -14,6 +14,8 @@ I'm **Carla**, a Software Engineering student currently pursuing a double degree
 <a href="https://www.linkedin.com/in/carla-clementino-53b6441b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ##
-    
-  </div>
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/ccarlaa/ccarlaa/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
